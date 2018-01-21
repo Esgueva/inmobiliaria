@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1000 Casas</string>
+    <string name="action_settings">Contact: </string>
+    <string name="direccion">Address: </string>
+    <string name="poblacion">City: </string>
+    <string name="habitaciones">Rooms: </string>
+    <string name="aseos">W.C.: </string>
+    <string name="garaje">Parking: </string>
+    <string name="trastero">Storage room: </string>
+    <string name="superficie">Surface: </string>
+    <string name="estado">State: </string>
+    <string name="coste">Cost: </string>
+    <string name="hab">roms</string>
+    <string name="wc">W.C.</string>
+    <string name="mes">€ / Month</string>
+    <string name="info">+ INFO</string>
+</resources>

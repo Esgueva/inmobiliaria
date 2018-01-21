@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">1000 Casas</string>
+    <string name="action_settings">Contacto: </string>
+    <string name="nombre">Nombre: </string>
+    <string name="direccion">Dirección: </string>
+    <string name="poblacion">Población: </string>
+    <string name="habitaciones">Habitaciones: </string>
+    <string name="aseos">Aseos: </string>
+    <string name="garaje">Garaje: </string>
+    <string name="trastero">Trastero: </string>
+    <string name="superficie">Superficie: </string>
+    <string name="estado">Estado: </string>
+    <string name="coste">Coste: </string>
+    <string name="hab">hab.</string>
+    <string name="wc">W.C.</string>
+    <string name="mes">€ / Mes</string>
+    <string name="info">+ INFO</string>
+</resources>
